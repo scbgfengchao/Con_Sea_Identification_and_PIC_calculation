@@ -19,7 +19,7 @@ Usage:	perl Con_Sea_Identification_and_PIC_calculation.pl $inputfile $Con_Island
 		$Con_Island_size: The number of continuous conservative sites to define a Con_Island (default: 50)
 	E.g.: perl Con_Sea_Identification_and_PIC_calculation.pl File_S1.fas 50
 
-Outputfile:		Con_Island.txt: The info of Con_Island, including No., start site, end site and length.
+Outputfile:	Con_Island.txt: The info of Con_Island, including No., start site, end site and length.
 	Con_Island.seq.txt: Consensus sequences of each Con_Island regions.
 	Con_Sea.txt: The info of Con_Sea, including No., start site, end site and length.
 	Con_Sea.seq.txt: The sequences of each Con_Sea regions of each sample.
